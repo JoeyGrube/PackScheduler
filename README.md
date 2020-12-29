@@ -1,11 +1,7 @@
-# csc216-202-LLL-05
-
-Lab 11 - due 4/23
-
-Ana  - Will do implementation and testing for RecursiveLinkedList 
-
-Parin - Add FacultySchedule and update the methods in faculty and course.
-
-Joey - Will do implementation and testing for FacultyDirectory and will do BBT
-
-
+# Pack Scheduler
+This program was worked on collaboratively and sequentially at NC State Universitie's CSC 216 on the semester of Spring 2020. This programs function is to serve as an academic calander for students. 
+## Table of Contents:
+* [General Info](#general-info)
+* [Technologies](#technologies)
+## General Info:
+## Technologies:
