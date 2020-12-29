@@ -5,3 +5,7 @@ This program was worked on collaboratively and sequentially at NC State Universi
 * [Technologies](#technologies)
 ## General Info:
 ## Technologies:
+This program is created and tested with the following:
+* Java
+* Junit 4
+
